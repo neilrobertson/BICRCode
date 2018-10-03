@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base id="base">
+	<element1 attr="value1" id="value1" name="mainelem">
+		<subelement id="sub2" value="7"/>
+	</element1>
+</base>

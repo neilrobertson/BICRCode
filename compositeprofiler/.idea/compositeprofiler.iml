@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ExpressionCorrelation" />
+    <orderEntry type="module" module-name="Baselib" />
+    <orderEntry type="module" module-name="Bisulphite_Seq" />
+    <orderEntry type="module" module-name="CancerGenomeAtlas" />
+    <orderEntry type="module" module-name="Composite Profiler" />
+    <orderEntry type="module" module-name="HiC" />
+    <orderEntry type="module" module-name="HiC (1)" />
+    <orderEntry type="module" module-name="PCR" />
+    <orderEntry type="module" module-name="RNA-Seq" />
+    <orderEntry type="module" module-name="Tools" />
+    <orderEntry type="module" module-name="scRNA_seq" />
+  </component>
+</module>

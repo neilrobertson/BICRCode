@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.python.pydev.debug.regularLaunchConfigurationType">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/CufflinksRNASeq/CompareSeqToArray.py"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="${workspace_loc:CufflinksRNASeq/CompareSeqToArray.py}"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_OTHER_WORKING_DIRECTORY" value="${workspace_loc:CufflinksRNASeq}"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="-a &quot;/home/mcbryan/mount/privatedata/Taranjit/hela-hiraknockdown/cel/output/NTG-HIRA-pairwisecomparison-annotated.csv&quot; -r /home/mcbryan/mount/50tb/privatedata/Nikolay/NikolayRNASeqReplicates/Comparisons/RefAnnotation/HIRA.gene_exp.diff --affypvalue &quot;tt&quot; --rnalogfc &quot;log2(fold_change)&quot; --rnakey 1"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="${workspace_loc:CufflinksRNASeq}"/>
+<stringAttribute key="org.python.pydev.debug.ATTR_INTERPRETER" value="__default"/>
+<stringAttribute key="org.python.pydev.debug.ATTR_PROJECT" value="CufflinksRNASeq"/>
+<intAttribute key="org.python.pydev.debug.ATTR_RESOURCE_TYPE" value="1"/>
+</launchConfiguration>

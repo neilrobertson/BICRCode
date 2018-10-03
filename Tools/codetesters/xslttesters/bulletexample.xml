@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ul>
+	<li>Bullet</li>
+	<li>Another bullet</li>
+	<ul>
+		<li>nested bullet</li>
+		<li>extra nb</li>
+	</ul>
+	<li>Final bullet</li>
+</ul>

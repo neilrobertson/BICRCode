@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Baselib" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Bisulphite_Seq" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../CancerGenomeAtlas" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Composite Profiler" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../HiC" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../HiC (1)" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../PCR" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../RNA-Seq" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Tools" vcs="svn" />
+  </component>
+</project>

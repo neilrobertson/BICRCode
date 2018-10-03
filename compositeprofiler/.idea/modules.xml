@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Baselib/.idea/Baselib.iml" filepath="$PROJECT_DIR$/../Baselib/.idea/Baselib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bisulphite_Seq/.idea/Bisulphite_Seq.iml" filepath="$PROJECT_DIR$/../Bisulphite_Seq/.idea/Bisulphite_Seq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CancerGenomeAtlas/.idea/CancerGenomeAtlas.iml" filepath="$PROJECT_DIR$/../CancerGenomeAtlas/.idea/CancerGenomeAtlas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Composite Profiler/.idea/Composite Profiler.iml" filepath="$PROJECT_DIR$/../Composite Profiler/.idea/Composite Profiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExpressionCorrelation/.idea/ExpressionCorrelation.iml" filepath="$PROJECT_DIR$/../ExpressionCorrelation/.idea/ExpressionCorrelation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HiC/.idea/HiC.iml" filepath="$PROJECT_DIR$/../HiC/.idea/HiC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HiC (1)/.idea/HiC (1).iml" filepath="$PROJECT_DIR$/../HiC (1)/.idea/HiC (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PCR/.idea/PCR.iml" filepath="$PROJECT_DIR$/../PCR/.idea/PCR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RNA-Seq/.idea/RNA-Seq.iml" filepath="$PROJECT_DIR$/../RNA-Seq/.idea/RNA-Seq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tools/.idea/Tools.iml" filepath="$PROJECT_DIR$/../Tools/.idea/Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/compositeprofiler.iml" filepath="$PROJECT_DIR$/.idea/compositeprofiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scRNA_seq/.idea/scRNA_seq.iml" filepath="$PROJECT_DIR$/../scRNA_seq/.idea/scRNA_seq.iml" />
+    </modules>
+  </component>
+</project>
